@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortList2Dimension", "SortList2Dimensio\SortList2Dimension.csproj", "{D24C46F9-377D-4E0C-A02A-B198ED8FC504}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D24C46F9-377D-4E0C-A02A-B198ED8FC504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D24C46F9-377D-4E0C-A02A-B198ED8FC504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D24C46F9-377D-4E0C-A02A-B198ED8FC504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D24C46F9-377D-4E0C-A02A-B198ED8FC504}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9A718F2-A454-4334-A03A-C66B6E8D59E8}
+	EndGlobalSection
+EndGlobal
